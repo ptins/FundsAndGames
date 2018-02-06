@@ -4,9 +4,10 @@ This is a logistic regression project using Kickstarter data for our CSE40647 - 
 
 ## Step 1 - Find An Interesting Application
 
-Lorem ipsum.
+[] Is the code done?
+[] Is the PDF updated?
 
-### Break down into end to end tests
+### Code Section
 
 Lorem ipsum.
 
@@ -16,9 +17,10 @@ Give an example
 
 ## Step 2 - Find Available Datasets
 
-Lorem ipsum.
+[] Is the code done?
+[] Is the PDF updated?
 
-### Break down into end to end tests
+### Code Section
 
 Lorem ipsum.
 
@@ -28,9 +30,10 @@ Give an example
 
 ## Step 3 - Data Cleaning
 
-Lorem ipsum.
+[] Is the code done?
+[] Is the PDF updated?
 
-### Break down into end to end tests
+### Code Section
 
 Lorem ipsum.
 
@@ -40,9 +43,11 @@ Give an example
 
 ## Step 4 - Data Integration
 
-Lorem ipsum.
+[] Is the code done?
+[] Is the PDF updated?
 
-### Break down into end to end tests
+
+### Code Section
 
 Lorem ipsum.
 
@@ -52,9 +57,10 @@ Give an example
 
 ## Step 5 - Define A Data Mining Task
 
-Lorem ipsum.
+[] Is the code done?
+[] Is the PDF updated?
 
-### Break down into end to end tests
+### Code Section
 
 Lorem ipsum.
 
@@ -64,9 +70,10 @@ Give an example
 
 ## Step 6 - Task-Based Data Selection
 
-Lorem ipsum.
+[] Is the code done?
+[] Is the PDF updated?
 
-### Break down into end to end tests
+### Code Section
 
 Lorem ipsum.
 
@@ -76,9 +83,10 @@ Give an example
 
 ## Step 7 - Define A Formal Data Mining Problem
 
-Lorem ipsum.
+[] Is the code done?
+[] Is the PDF updated?
 
-### Break down into end to end tests
+### Code Section
 
 Lorem ipsum.
 
@@ -88,9 +96,10 @@ Give an example
 
 ## Step 8 - Develop The Model
 
-Lorem ipsum.
+[] Is the code done?
+[] Is the PDF updated?
 
-### Break down into end to end tests
+### Code Section
 
 Lorem ipsum.
 
@@ -100,9 +109,10 @@ Give an example
 
 ## Step 9 - Evaluation
 
-Lorem ipsum.
+[] Is the code done?
+[] Is the PDF updated?
 
-### Break down into end to end tests
+### Code Section
 
 Lorem ipsum.
 
