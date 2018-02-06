@@ -14,27 +14,11 @@ Lorem ipsum.
 Give an example
 ```
 
-### And coding style tests
-
-Lorem ipsum.
-
-```
-Give an example
-```
-
 ## Step 2 - Find Available Datasets
 
 Lorem ipsum.
 
 ### Break down into end to end tests
-
-Lorem ipsum.
-
-```
-Give an example
-```
-
-### And coding style tests
 
 Lorem ipsum.
 
@@ -54,27 +38,11 @@ Lorem ipsum.
 Give an example
 ```
 
-### And coding style tests
-
-Lorem ipsum.
-
-```
-Give an example
-```
-
 ## Step 4 - Data Integration
 
 Lorem ipsum.
 
 ### Break down into end to end tests
-
-Lorem ipsum.
-
-```
-Give an example
-```
-
-### And coding style tests
 
 Lorem ipsum.
 
@@ -94,27 +62,11 @@ Lorem ipsum.
 Give an example
 ```
 
-### And coding style tests
-
-Lorem ipsum.
-
-```
-Give an example
-```
-
 ## Step 6 - Task-Based Data Selection
 
 Lorem ipsum.
 
 ### Break down into end to end tests
-
-Lorem ipsum.
-
-```
-Give an example
-```
-
-### And coding style tests
 
 Lorem ipsum.
 
@@ -134,14 +86,6 @@ Lorem ipsum.
 Give an example
 ```
 
-### And coding style tests
-
-Lorem ipsum.
-
-```
-Give an example
-```
-
 ## Step 8 - Develop The Model
 
 Lorem ipsum.
@@ -154,27 +98,11 @@ Lorem ipsum.
 Give an example
 ```
 
-### And coding style tests
-
-Lorem ipsum.
-
-```
-Give an example
-```
-
 ## Step 9 - Evaluation
 
 Lorem ipsum.
 
 ### Break down into end to end tests
-
-Lorem ipsum.
-
-```
-Give an example
-```
-
-### And coding style tests
 
 Lorem ipsum.
 
