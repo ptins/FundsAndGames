@@ -7,7 +7,7 @@ This is a logistic regression project using Kickstarter data for our CSE40647 - 
 - [ ] Is the code done?
 - [ ] Is the PDF updated?
 
-### Code Section
+### Content
 
 Lorem ipsum.
 
@@ -20,7 +20,7 @@ Give an example
 - [ ] Is the code done?
 - [ ] Is the PDF updated?
 
-### Code Section
+### Content
 
 Lorem ipsum.
 
@@ -33,7 +33,7 @@ Give an example
 - [ ] Is the code done?
 - [ ] Is the PDF updated?
 
-### Code Section
+### Content
 
 Lorem ipsum.
 
@@ -47,7 +47,7 @@ Give an example
 - [ ] Is the PDF updated?
 
 
-### Code Section
+### Content
 
 Lorem ipsum.
 
@@ -60,7 +60,7 @@ Give an example
 - [ ] Is the code done?
 - [ ] Is the PDF updated?
 
-### Code Section
+### Content
 
 Lorem ipsum.
 
@@ -73,7 +73,7 @@ Give an example
 - [ ] Is the code done?
 - [ ] Is the PDF updated?
 
-### Code Section
+### Content
 
 Lorem ipsum.
 
@@ -86,7 +86,7 @@ Give an example
 - [ ] Is the code done?
 - [ ] Is the PDF updated?
 
-### Code Section
+### Content
 
 Lorem ipsum.
 
@@ -99,7 +99,7 @@ Give an example
 - [ ] Is the code done?
 - [ ] Is the PDF updated?
 
-### Code Section
+### Content
 
 Lorem ipsum.
 
@@ -112,7 +112,7 @@ Give an example
 - [ ] Is the code done?
 - [ ] Is the PDF updated?
 
-### Code Section
+### Content
 
 Lorem ipsum.
 
